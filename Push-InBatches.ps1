@@ -40,7 +40,8 @@ try {
         @('40a4aeb', 'animation frames 5/6', '36.9 MB'),
         @('47698c0', 'animation frames 6/6', '29.6 MB'),
         @('03f8e43', 'animation frame manifest', '0.01 MB'),
-        @('1d61ab0', 'setup notes and pnpm fix', '0.01 MB')
+        @('1d61ab0', 'setup notes and pnpm fix', '0.01 MB'),
+        @('7e8ed3a', 'batch push helper', '0.01 MB')
     )
 
     for ($i = 0; $i -lt $steps.Count; $i++) {
